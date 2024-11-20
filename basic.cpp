@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // Declare and initialize variables
+    
     int number;
     
     // Output a message to the user
