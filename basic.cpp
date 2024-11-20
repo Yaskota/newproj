@@ -10,7 +10,7 @@ int main() {
     cout << "Enter a number: ";
     
     // Get input from the user
-    cin >> number;
+    
     
     // Output the number entered by the user
     cout << "You entered: " << number << endl;
